@@ -1,1 +1,39 @@
+# -------------------------------
+# Python cache and temp files
+# -------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------------
+# Jupyter Notebook checkpoints
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# Data files (do not track large datasets)
+# -------------------------------
+data/
+*.csv
+*.xlsx
+*.json
+
+# -------------------------------
+# Virtual environments
+# -------------------------------
+venv/
+.env/
+
+# -------------------------------
+# System files
+# -------------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------------
+# Log or output files
+# -------------------------------
+*.log
+outputs/
 
