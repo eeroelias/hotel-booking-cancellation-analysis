@@ -24,7 +24,7 @@ This project analyzes hotel booking data and customer reviews to **predict cance
 ---
 
 ## Methods & Analysis
-- Followed **CRISP-DM framework** (Business understanding → Data understanding → Preparation → Modeling → Evaluation → Deployment)  
+- Followed **CRISP-DM framework** 
 - **Machine Learning Models:** Logistic Regression, Decision Trees, Random Forest, Neural Networks  
 - **Other Analyses:** Market Basket Analysis, Sentiment Analysis, Topic Modeling  
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1 Score, ROC-AUC, MSE, Gini Coefficient  
@@ -43,21 +43,7 @@ This project analyzes hotel booking data and customer reviews to **predict cance
 - Apply stricter refund policies for high-risk bookings  
 - Encourage customer engagement and loyalty programs  
 - Use predictive flags to proactively manage risky bookings  
-- Monitor feedback to improve services that matter most to customers  
-
----
-
-## Repository Structure
-hotel-booking-cancellation-analysis/
-├── notebooks/
-│ └── hotel_analysis.ipynb # Full Python analysis
-├── report/
-│ └── Business_Analytics_Report.pdf # Academic-style report
-├── presentation/
-│ └── BA2_Presentation.mp4 # Project presentation
-├── README.md # This file
-└── .gitignore # Excludes sensitive or large files
-
+- Monitor feedback to improve services that matter most to customers
 
 ---
 
