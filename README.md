@@ -31,6 +31,3 @@ Presentation video available in /presentation folder
 
 ## Tools
 Python (pandas, scikit-learn, NLP), Machine Learning, Business Analytics
-
-
-Presentation video available in /presentation folder
