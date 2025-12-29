@@ -55,7 +55,6 @@ This project analyzes hotel booking data and customer reviews to **predict cance
 
 ---
 
-## Notes
-- All steps are **fully reproducible** using the provided notebook  
+## Notes 
 - This project demonstrates both **technical skills** and **business-driven insights**
 
